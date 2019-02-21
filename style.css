@@ -1,0 +1,9 @@
+/*Tambahkan CSS Sendiri Jika Mau*/
+section.tentang{
+	min-height: 300px;
+}
+section.portfolio{
+	background-color: #eee;
+	min-height: 300px;
+}
+/*Saran Saya Buat Belang*/
